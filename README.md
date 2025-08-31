@@ -11,4 +11,4 @@
 
 
  ##Output Screenshot
- ![Output Screenshot](samplescreenshot(5).jpg)
+ ![Output Screenshot](https://github.com/Shiny455/BodyShapeCalculator/blob/main/sampleScreenshot(5).jpg)
