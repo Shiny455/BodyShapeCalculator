@@ -11,4 +11,4 @@
 
 
  ##Output Screenshot
- ![Program Output](samplescreenshot(5).jpg)
+ ![Output Screenshot](samplescreenshot(5).jpg)
